@@ -1,4 +1,5 @@
 - **I'm noob**
+- 私のコードは目を疑うほど汚いです。
 
 # Links
 -  [Twitter](twitter.com/kumam43)
